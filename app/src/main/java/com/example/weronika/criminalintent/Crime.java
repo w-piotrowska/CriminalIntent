@@ -1,3 +1,5 @@
+package com.example.weronika.criminalintent;
+
 import java.util.Date;
 import java.util.UUID;
 
